@@ -180,3 +180,263 @@ contract DepositContract is IDepositContract, ERC165 {
         ret[7] = bytesValue[0];
     }
 }
+As a low cost and use-as-needed ERP system WebKOBIS ERP3 comes in TRADE, CRM, ERP, MRP, SMS, PMS, QMS, DMS, DAM, PAM, LMS, WSH, CMS, HRM, TMS  package editions which are providing over 35 main, over 75 integrated management modules for your business.
+
+WebKOBIS ERP3' simple to use design, extensive database allows you to capture more details than most similar software would capture for your business.     
+
+
+
+ADVANTAGES:
+
+* Based on low cost web based proven technologies therefore effortable for most businesses.
+* Integrate Advance Activity-Based Production, Process-Based Quality Assurance Support, Design Tracking, Sales & Marketing and other operational activities in one system easily.
+* Control your connections and operations in an integrated & centralized framework.
+* Upscale WebKOBIS ERP3 as easy as turning your light switch on according to your needs from TRADE to CRM or from TRADE to ERP or from CRM to ERP edition.
+* WebKOBIS ERP3 SaaS licence you save money from expensive hardware, software and backup support. WebKOBIS ERP3 will be ready for you anytime you need.
+* WebKOBIS ERP3' standard editions can be expanded for specialized systems with additional Optional Modules according to your needs.
+* WebKOBIS ERP3' Optional B2B modules provide quick and specialized solutions for your B2B needs without changing your core WebKOBIS ERP3 application. Utilizing WebKOBIS ERP3 B2B modules you can establish Customer or Vendor online service systems quickly as well as Mobile access portals for your field personnel..
+* With WebKOBIS ERP3 you don't have to do long term contracts. Accounts are annual & you pay as long as you use. However you can get WebKOBIS ERP3 benefits for your long term contract requests. 
+* Your data is yours. If you decide to end your WebKOBIS ERP3 account, your database will be delivered to you. In fact you can download your data whenever you want.
+
+
+* WebKOBIS ERP3 centralize and integrates your all activities such as Production, Procurement, Sales and Quality Assurance assuring simultaneous awareness between related departments and users.
+* WebKOBIS ERP3 allows you to create customized dashboards as many as you need using already defined charts. This allows you to focus to your area of interest.
+* WebKOBIS ERP3' role/group based user access security system allows you to control knowledge security more effectively.
+* WebKOBIS ERP3' dynamic filtering and Advance Search ability gives you to search on all fields in your database allowing you to do dynamic analysis of your data. 
+* All Reports and Graphics in WebKOBIS ERP3 allows you filter and search data so you can dynamically analyse your data.
+* WebKOBIS ERP3 uses 8 important security mechanism. As an example you can define User/IP addresses to WebKOBIS ERP3 to limit their log in; even log in date & time. 
+
+
+
+WebKOBIS ERP3 MAIN MODULES:
+
+* Agenda Management
+* Call Center Management 
+* Contact Management
+* Customer Management
+* Sales Management 
+* Orders Management 
+* Proposal Management 
+* Contract Management 
+* Competitor Firm Management 
+* Potential Sales
+* Product Management
+* Production Management 
+* Quality Management 
+* Activity Management
+* Stock Management
+* Logistic Management
+* Vendor Management
+* Procurement Management
+* Potential Procurements
+* Work Order Management
+* Financial Management
+* Expense Management
+* Payment Management
+* Asset Management
+* Vehicle  Management
+* Repair Management
+* Document Management
+* Training Management
+* Knowledge Base Management
+* Foreign Trade Management
+* Dashboards Management
+ 
+
+
+WebKOBIS ERP3 Additional Modules:
+* Advance Production Planing & Management (WKB-UP)
+* Product Design & Sample Management (WKB-UT)
+* Product Casting & Sample Management (WKB-UD)
+* Business Planning & Project Management System (WKB-IP)
+* Human Resources Management  (WKB-IK)
+* Work Safety Management  (WKB-IG)
+* Business Intelligence Reporting System (WKB-RP)
+* phpMyAdmin integration 
+
+
+WebKOBIS ERP3 Additional B2B Modules:
+* Production Tracking Portal (WKB-IT)
+* Customer/Partner B2B Portal (WKB-MP)
+* Vendor B2B Portal (WKB-TP)
+* Mobile Phone / Mobile Access Portal (WKB-CP)
+* Web Site Integration Module(WKB-WS)
+* Shopping Cart Integration (WKB-IM)
+
+ 
+WebKOBIS ERP3 Financial System Gateway Modules:
+* ETA:V8.SQL (WKB-FS/ETA)
+
+
+
+
+MORE DETAILS: 
+
+
+WebKOBIS ERP3 ERP is an ERP cloud service that covers all business, especially production processes for small to large-sized companies.
+
+
+WebKOBIS ERP3 SaaS LICENCE
+
+* Standard WebKOBIS ERP3 installation with optional modüles purchased
+* Low cost SaaS licence with dedicated instalation
+* Daily Data Backups
+* Project based customization for your business demand
+
+
+
+WebKOBIS ERP3 GENERAL FEATURES
+
+* Windows-like Role based dynamic Menu
+* Over 525 List forms supporting Quick Data Links, Data filtering and Advance Searches 
+* Hihgly detailed database tables
+* Comprehensive 360 Business Logic
+* Role/Group base Access Management
+* 400+ Analysis Charts with dynamic filtering
+* 100+ Reports with dynamic filtering
+* Over 500 forms with dynamic filtering and detailed search for Dynamic Reporting 
+* User Defineable Dashborads from Analysis Charts; 50+ standard Dashboards to analize modules 
+* Over 140 User definable Notification Widgets 
+* Encrypted communication
+* Integrated firewall for user/IP and access date/time schedule
+* Integrated support for GoogleMaps
+* Integrated Gantt Charts and calendars
+* Export (.csv, .doc, .xls, .xml, .pdf)  
+* Add-On module support for better business integration
+	-Advance Production Tracking System
+	-Customer B2B System
+	-Vendor B2B System
+	-Mobile Personnel Access System
+
+
+
+SALES AND CRM
+* Complete sales management
+* Call Center processing
+* Potentials Management
+* Pre-sales processing
+* One click converting process (Lead-Opportunity-Quotation-Invoice-Payment-Delivery)
+* Currency management engine for automatic currency conversion 
+* Tax Engine manages multiple tax types
+* Various payment terms
+* Customizable notes 
+* Customer Returns
+* Competitor Management 
+
+
+
+PURCHASING AND SUPPLIER MANAGEMENT
+* Accumulating various purchase ordertypes from various processing engines
+* Manual or automatic purchase management according to business needs
+* Various payment types
+* Supplier returns
+* Various payment terms
+* Consignment management
+
+
+PRODUCT MANAGEMENT & PRODUCTION
+* Standard Product Management Module depending on business demands
+* Standard Product Material Tree 
+* BOM/Component based production
+* Recurring production
+* Services
+
+
+ADVANCE PRODUCTION
+* Advance Product & Production Management module depending on business demands
+* Multi-site, multi-line, solid or virtual assembly lines
+* Project management with Gantt chart
+* Product Variant Engince
+* Detailed activity based production with detailed process definitioins  
+* BOM/Component based production
+* Activity based Production Tracking 
+* MRP Support
+* Production Needs
+* Recurring production
+* Time-managed production
+* Product Design Tracking
+* Product Sampling Tracking
+* Product Casting Tracking
+
+
+
+QUALITY ASSURANCE
+* Quality Assurance Document (Plans, Forms, Specs)
+* Detailed activity-based process defitions
+* Process-QA Definitions links 
+* QA Test Plans & Tests
+* QA Activities Tracking
+
+
+WORK ORDERS
+* Work Orders tracking for 
+	-Customer Services
+	-Production
+	-Quality Assurance Activity
+	-Repair Services
+	-Logistics
+	-Precurement
+	-WorkSafety
+* Integrated Cost tracing 
+
+
+DOCUMENT MANAGEMENT
+* Document Integration to various modules such as products, Financials, Quality Assurance, Sales etc
+* Upload as File or Upload In to Database options 
+* Archive Management
+
+
+WAREHOUSE AND INVENTORY CONTROL
+* Real-time inventory
+* Easy tracking low stocks or stocks under Low-Level settings 
+* Document linking
+* Detailed product definitions (Images, SKU, barcode, manual linking, categories, trademarks)
+* Internal deliveries
+* Multiple-warehouses
+
+
+FINANCE AND ACCOUNTING
+* Payables and receivables, with real-time invoice support
+* Fixed Asset Management
+* Financial Dashboards, Reporting and Analytics
+* More than 100 standard reports
+* Payment Management
+* DDocument linking (invoice Send, supplier invoice received)
+* Payments Management
+* Expence  Management
+
+
+BUSINESS PLANS & PROJECT PLANNING
+* Integrated Business Plans & Details to track high level & project level progress
+* Integrated Project Plans & Details  to Track all-arround business activities 
+* Easy Project-based cost, Sales, precurement, payment, workorder tracking  
+
+
+BUSINESS INTELLIGENCE
+* Dynamic Reporting & Analyzing with Report Management Module 
+* 400+ Analysis Charts with dynamic filtering
+* 100+ Reports with dynamic filtering
+* Over 525 List forms supporting Quick Data Links, Data filtering and Advance Searches 
+* User Defineable Dashborads from Analysis Charts; 50+ standard Dashboards to analize modules 
+* Over 140 User definable Notification Widgets 
+* Export (.csv, .doc, .xls, .xml, .pdf)  
+* Quick Data Links 
+* Send emails 
+* Module Dashboard 
+* Role based reporting
+
+
+
+HUMAN RESOURCES
+* Detailed Personnel records
+* Personnel Leaves, Reports
+* Roles, Work Assignments and Performance tracking 
+* Personnel Evaluations
+* Open roles & Applications management
+* Timesheet tracking
+ 
+
+WORK, SAFETY & HEALTH
+* Integrated Work & Safety Module
+* Integrated Worker Health Module
+* Risc Tracking
