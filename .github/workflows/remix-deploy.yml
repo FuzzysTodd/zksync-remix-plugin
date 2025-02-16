@@ -54,7 +54,7 @@ jobs:
           # If enabled, when the major version is 0, major releases will be treated as minor and minor as patch. Note that the version_type output is unchanged.
           enable_prerelease_mode: true
           # If enabled, diagnostic information will be added to the action output.
-          debug: false
+          debug: true
 
       - name: Inject version
         env:
