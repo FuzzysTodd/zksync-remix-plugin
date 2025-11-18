@@ -16,8 +16,8 @@
     "@matterlabs/hardhat-zksync-solc": "1.1.4",
     "@matterlabs/hardhat-zksync-verify": "1.4.3",
     "@matterlabs/zksync-contracts": "^0.6.1",
-    "@openzeppelin/contracts": "^4.6.0",
-    "@openzeppelin/contracts-upgradeable": "^4.6.0",
+    "@openzeppelin/contracts": "^4.9.6",
+    "@openzeppelin/contracts-upgradeable": "^5.4.0",
     "@chainlink/contracts": "^1.0.0",
     "@thirdweb-dev/contracts": "^3.11.2"
   }
